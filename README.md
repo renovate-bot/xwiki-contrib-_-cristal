@@ -13,7 +13,7 @@ backends (including of course [XWiki](https://www.xwiki.org/) to store Wiki data
 * Minimal XWiki version supported: XWiki (minimal xwiki version)
 * License: LGPL 2.1
 * Translations: N/A
-* Wiki: N/A
+* Wiki: https://cristal.xwiki.org/
 <!--* Sonar
   Dashboard: [![Status](https://sonarcloud.io/api/project_badges/measure?project=(group id):(artifact id)&metric=alert_status)](https://sonarcloud.io/dashboard?id=(group
   id):(artifact id))-->
