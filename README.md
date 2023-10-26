@@ -1,15 +1,14 @@
 # Cristal
 
 Cristal is a new project to build a new modular wiki UI using modern web technologies, which will support multiple
-backends (including of course [XWiki](https://www.xwiki.org/) to store Wiki data.
+backends (including of course [XWiki](https://www.xwiki.org/) to store Wiki data).
 
 * Project Lead: [Manuel Leduc](https://www.xwiki.org/xwiki/bin/view/XWiki/mleduc)
 * Documentation & Downloads: N/A <!-- [Documentation & Download](https://extensions.xwiki.org/xwiki/bin/view/Extension/
   (extension
   name)))-->
 * [Issue Tracker](https://jira.xwiki.org/projects/CRISTAL/summary)
-* Communication: [Forum](https://forum.xwiki.org/c/cristal/18), [Matrix Chat]([https://dev.xwiki.
-  org/xwiki/bin/view/Community/Chat](https://matrix.to/#/#cristal:matrix.xwiki.com))
+* Communication: [Forum](https://forum.xwiki.org/c/cristal/18), [Matrix Chat](https://matrix.to/#/#cristal:matrix.xwiki.com)
 * [Development Practices](https://dev.xwiki.org)
 * Minimal XWiki version supported: XWiki (minimal xwiki version)
 * License: LGPL 2.1
