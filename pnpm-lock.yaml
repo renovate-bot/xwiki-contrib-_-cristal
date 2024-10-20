@@ -728,8 +728,8 @@ importers:
         specifier: 10.0.4
         version: 10.0.4(vue@3.5.12(typescript@5.6.2))
       vuetify:
-        specifier: 3.7.2
-        version: 3.7.2(typescript@5.6.2)(vite-plugin-vuetify@2.0.4)(vue@3.5.12(typescript@5.6.2))
+        specifier: 3.7.3
+        version: 3.7.3(typescript@5.6.2)(vite-plugin-vuetify@2.0.4)(vue@3.5.12(typescript@5.6.2))
     devDependencies:
       '@vue/test-utils':
         specifier: 2.4.6
@@ -1472,7 +1472,7 @@ importers:
         version: 0.8.7(rollup@4.24.0)(vite@5.4.9(@types/node@22.7.5))
       vite-plugin-vuetify:
         specifier: 2.0.4
-        version: 2.0.4(vite@5.4.9(@types/node@22.7.5))(vue@3.5.12(typescript@5.6.2))(vuetify@3.7.2)
+        version: 2.0.4(vite@5.4.9(@types/node@22.7.5))(vue@3.5.12(typescript@5.6.2))(vuetify@3.7.3)
       vue-tsc:
         specifier: 2.1.6
         version: 2.1.6(typescript@5.6.2)
@@ -3377,6 +3377,7 @@ packages:
 
   boolean@3.2.0:
     resolution: {integrity: sha512-d0II/GO9uf9lfUHH2BQsjxzRJZBdsjgsBiW4BvhWk/3qoKwQFjIDVN19PfX8F2D/r9PCMTtLWjYVCFrpeYUzsw==}
+    deprecated: Package no longer supported. Contact Support at https://www.npmjs.com/support for more info.
 
   bootstrap-icons@1.11.3:
     resolution: {integrity: sha512-+3lpHrCw/it2/7lBL15VR0HEumaBss0+f/Lb6ZvHISn1mlK83jjFpooTLsMWbIjJMDjDjOExMsTxnXSIT4k4ww==}
@@ -6125,8 +6126,8 @@ packages:
       typescript:
         optional: true
 
-  vuetify@3.7.2:
-    resolution: {integrity: sha512-q0WTcRG977+a9Dqhb8TOaPm+Xmvj0oVhnBJhAdHWFSov3HhHTTxlH2nXP/GBTXZuuMHDbBeIWFuUR2/1Fx0PPw==}
+  vuetify@3.7.3:
+    resolution: {integrity: sha512-bpuvBpZl1/+nLlXDgdVXekvMNR6W/ciaoa8CYlpeAzAARbY8zUFSoBq05JlLhkIHI58AnzKVy4c09d0OtfYAPg==}
     engines: {node: ^12.20 || >=14.13}
     peerDependencies:
       typescript: '>=4.7'
@@ -7977,11 +7978,11 @@ snapshots:
       js-beautify: 1.14.11
       vue-component-type-helpers: 2.0.7
 
-  '@vuetify/loader-shared@2.0.3(vue@3.5.12(typescript@5.6.2))(vuetify@3.7.2)':
+  '@vuetify/loader-shared@2.0.3(vue@3.5.12(typescript@5.6.2))(vuetify@3.7.3)':
     dependencies:
       upath: 2.0.1
       vue: 3.5.12(typescript@5.6.2)
-      vuetify: 3.7.2(typescript@5.6.2)(vite-plugin-vuetify@2.0.4)(vue@3.5.12(typescript@5.6.2))
+      vuetify: 3.7.3(typescript@5.6.2)(vite-plugin-vuetify@2.0.4)(vue@3.5.12(typescript@5.6.2))
 
   '@xmldom/xmldom@0.8.10': {}
 
@@ -11252,14 +11253,14 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  vite-plugin-vuetify@2.0.4(vite@5.4.9(@types/node@22.7.5))(vue@3.5.12(typescript@5.6.2))(vuetify@3.7.2):
+  vite-plugin-vuetify@2.0.4(vite@5.4.9(@types/node@22.7.5))(vue@3.5.12(typescript@5.6.2))(vuetify@3.7.3):
     dependencies:
-      '@vuetify/loader-shared': 2.0.3(vue@3.5.12(typescript@5.6.2))(vuetify@3.7.2)
+      '@vuetify/loader-shared': 2.0.3(vue@3.5.12(typescript@5.6.2))(vuetify@3.7.3)
       debug: 4.3.4(supports-color@5.5.0)
       upath: 2.0.1
       vite: 5.4.9(@types/node@22.7.5)
       vue: 3.5.12(typescript@5.6.2)
-      vuetify: 3.7.2(typescript@5.6.2)(vite-plugin-vuetify@2.0.4)(vue@3.5.12(typescript@5.6.2))
+      vuetify: 3.7.3(typescript@5.6.2)(vite-plugin-vuetify@2.0.4)(vue@3.5.12(typescript@5.6.2))
     transitivePeerDependencies:
       - supports-color
 
@@ -11376,12 +11377,12 @@ snapshots:
     optionalDependencies:
       typescript: 5.6.2
 
-  vuetify@3.7.2(typescript@5.6.2)(vite-plugin-vuetify@2.0.4)(vue@3.5.12(typescript@5.6.2)):
+  vuetify@3.7.3(typescript@5.6.2)(vite-plugin-vuetify@2.0.4)(vue@3.5.12(typescript@5.6.2)):
     dependencies:
       vue: 3.5.12(typescript@5.6.2)
     optionalDependencies:
       typescript: 5.6.2
-      vite-plugin-vuetify: 2.0.4(vite@5.4.9(@types/node@22.7.5))(vue@3.5.12(typescript@5.6.2))(vuetify@3.7.2)
+      vite-plugin-vuetify: 2.0.4(vite@5.4.9(@types/node@22.7.5))(vue@3.5.12(typescript@5.6.2))(vuetify@3.7.3)
 
   w3c-keyname@2.2.8: {}
 
