@@ -120,7 +120,7 @@ catalog:
   dexie: 4.2.1
   dotenv: 17.2.3
   electron: 39.2.6
-  electron-builder: 26.0.12
+  electron-builder: 26.4.0
   electron-store: 11.0.2
   esbuild: 0.27.1
   eslint: 9.39.1
