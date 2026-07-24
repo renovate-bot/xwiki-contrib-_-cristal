@@ -328,8 +328,8 @@ catalogs:
       specifier: 10.4.0
       version: 10.4.0
     vue-i18n:
-      specifier: 11.4.4
-      version: 11.4.4
+      specifier: 11.4.7
+      version: 11.4.7
     vue-router:
       specifier: 5.0.3
       version: 5.0.3
@@ -439,7 +439,7 @@ importers:
         version: 5.9.3
       typescript-eslint:
         specifier: 'catalog:'
-        version: 8.65.0(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(typescript@5.9.3)
+        version: 8.65.0(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(supports-color@5.5.0)(typescript@5.9.3)
       vite:
         specifier: 'catalog:'
         version: 7.3.5(@types/node@26.1.1)(jiti@2.7.0)(lightningcss@1.33.0)(sugarss@5.0.1(postcss@8.5.22))(tsx@4.22.1)(yaml@2.9.0)
@@ -556,7 +556,7 @@ importers:
         version: 18.7.0-1784751146(inversify@8.1.1(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.0.3(@vue/compiler-sfc@3.5.40)(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       vue-i18n:
         specifier: 'catalog:'
-        version: 11.4.4(vue@3.5.38(typescript@5.9.3))
+        version: 11.4.7(vue@3.5.38(typescript@5.9.3))
     devDependencies:
       '@xwiki/cristal-dev-config':
         specifier: workspace:*
@@ -632,7 +632,7 @@ importers:
         version: 18.7.0-1784751146(inversify@8.1.1(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.0.3(@vue/compiler-sfc@3.5.40)(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       vue-i18n:
         specifier: 'catalog:'
-        version: 11.4.4(vue@3.5.38(typescript@5.9.3))
+        version: 11.4.7(vue@3.5.38(typescript@5.9.3))
     devDependencies:
       '@vue/test-utils':
         specifier: 'catalog:'
@@ -812,7 +812,7 @@ importers:
         version: 18.7.0-1784751146(reflect-metadata@0.2.2)(vue@3.5.38(typescript@5.9.3))
       vue-i18n:
         specifier: 'catalog:'
-        version: 11.4.4(vue@3.5.38(typescript@5.9.3))
+        version: 11.4.7(vue@3.5.38(typescript@5.9.3))
     devDependencies:
       '@vue/test-utils':
         specifier: 'catalog:'
@@ -949,7 +949,7 @@ importers:
         version: 18.7.0-1784751146(reflect-metadata@0.2.2)
       vue-i18n:
         specifier: 'catalog:'
-        version: 11.4.4(vue@3.5.38(typescript@5.9.3))
+        version: 11.4.7(vue@3.5.38(typescript@5.9.3))
     devDependencies:
       '@vue/test-utils':
         specifier: 'catalog:'
@@ -1010,7 +1010,7 @@ importers:
         version: 18.7.0-1784751146(reflect-metadata@0.2.2)(vue@3.5.38(typescript@5.9.3))
       vue-i18n:
         specifier: 'catalog:'
-        version: 11.4.4(vue@3.5.38(typescript@5.9.3))
+        version: 11.4.7(vue@3.5.38(typescript@5.9.3))
     devDependencies:
       '@vue/test-utils':
         specifier: 'catalog:'
@@ -1561,7 +1561,7 @@ importers:
     dependencies:
       vue-i18n:
         specifier: 'catalog:'
-        version: 11.4.4(vue@3.5.38(typescript@5.9.3))
+        version: 11.4.7(vue@3.5.38(typescript@5.9.3))
     devDependencies:
       '@xwiki/cristal-dev-config':
         specifier: workspace:*
@@ -1672,7 +1672,7 @@ importers:
         version: 0.2.2
       vue-i18n:
         specifier: 'catalog:'
-        version: 11.4.4(vue@3.5.38(typescript@5.9.3))
+        version: 11.4.7(vue@3.5.38(typescript@5.9.3))
     devDependencies:
       '@xwiki/cristal-dev-config':
         specifier: workspace:*
@@ -1953,7 +1953,7 @@ importers:
         version: 18.7.0-1784751146(inversify@8.1.1(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.0.3(@vue/compiler-sfc@3.5.40)(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       vue-i18n:
         specifier: 'catalog:'
-        version: 11.4.4(vue@3.5.38(typescript@5.9.3))
+        version: 11.4.7(vue@3.5.38(typescript@5.9.3))
     devDependencies:
       '@xwiki/cristal-dev-config':
         specifier: workspace:*
@@ -2842,7 +2842,7 @@ importers:
         version: 0.2.2
       vue-i18n:
         specifier: 'catalog:'
-        version: 11.4.4(vue@3.5.38(typescript@5.9.3))
+        version: 11.4.7(vue@3.5.38(typescript@5.9.3))
     devDependencies:
       '@types/async-lock':
         specifier: 'catalog:'
@@ -2959,7 +2959,7 @@ importers:
     dependencies:
       vue-i18n:
         specifier: 'catalog:'
-        version: 11.4.4(vue@3.5.38(typescript@5.9.3))
+        version: 11.4.7(vue@3.5.38(typescript@5.9.3))
     devDependencies:
       '@xwiki/cristal-dev-config':
         specifier: workspace:*
@@ -3057,7 +3057,7 @@ importers:
         version: 18.7.0-1784751146(inversify@8.1.1(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.0.3(@vue/compiler-sfc@3.5.40)(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       vue-i18n:
         specifier: 'catalog:'
-        version: 11.4.4(vue@3.5.38(typescript@5.9.3))
+        version: 11.4.7(vue@3.5.38(typescript@5.9.3))
     devDependencies:
       '@xwiki/cristal-dev-config':
         specifier: workspace:*
@@ -3334,7 +3334,7 @@ importers:
         version: 18.7.0-1784751146(reflect-metadata@0.2.2)(vue@3.5.38(typescript@5.9.3))
       vue-i18n:
         specifier: 'catalog:'
-        version: 11.4.4(vue@3.5.38(typescript@5.9.3))
+        version: 11.4.7(vue@3.5.38(typescript@5.9.3))
     devDependencies:
       '@vue/test-utils':
         specifier: 'catalog:'
@@ -3420,7 +3420,7 @@ importers:
     dependencies:
       vue-i18n:
         specifier: 'catalog:'
-        version: 11.4.4(vue@3.5.38(typescript@5.9.3))
+        version: 11.4.7(vue@3.5.38(typescript@5.9.3))
     devDependencies:
       '@xwiki/cristal-dev-config':
         specifier: workspace:*
@@ -3833,7 +3833,7 @@ importers:
         version: 18.7.0-1784751146(reflect-metadata@0.2.2)
       vue-i18n:
         specifier: 'catalog:'
-        version: 11.4.4(vue@3.5.38(typescript@5.9.3))
+        version: 11.4.7(vue@3.5.38(typescript@5.9.3))
     devDependencies:
       '@vue/test-utils':
         specifier: 'catalog:'
@@ -3888,7 +3888,7 @@ importers:
     dependencies:
       vue-i18n:
         specifier: 'catalog:'
-        version: 11.4.4(vue@3.5.38(typescript@5.9.3))
+        version: 11.4.7(vue@3.5.38(typescript@5.9.3))
     devDependencies:
       '@xwiki/platform-tool-tsconfig':
         specifier: 'catalog:'
@@ -3940,7 +3940,7 @@ importers:
         version: 18.7.0-1784751146(inversify@8.1.1(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.0.3(@vue/compiler-sfc@3.5.40)(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       vue-i18n:
         specifier: 'catalog:'
-        version: 11.4.4(vue@3.5.38(typescript@5.9.3))
+        version: 11.4.7(vue@3.5.38(typescript@5.9.3))
     devDependencies:
       '@vue/test-utils':
         specifier: 'catalog:'
@@ -4001,7 +4001,7 @@ importers:
         version: 18.7.0-1784751146(inversify@8.1.1(reflect-metadata@0.2.2))(reflect-metadata@0.2.2)(vue-router@5.0.3(@vue/compiler-sfc@3.5.40)(vue@3.5.38(typescript@5.9.3)))(vue@3.5.38(typescript@5.9.3))
       vue-i18n:
         specifier: 'catalog:'
-        version: 11.4.4(vue@3.5.38(typescript@5.9.3))
+        version: 11.4.7(vue@3.5.38(typescript@5.9.3))
       vuetify:
         specifier: 'catalog:'
         version: 4.1.5(typescript@5.9.3)(vue@3.5.38(typescript@5.9.3))
@@ -4104,7 +4104,7 @@ importers:
         version: 4.18.1
       vue-i18n:
         specifier: 'catalog:'
-        version: 11.4.4(vue@3.5.38(typescript@5.9.3))
+        version: 11.4.7(vue@3.5.38(typescript@5.9.3))
     devDependencies:
       '@blocknote/core':
         specifier: 'catalog:'
@@ -5134,7 +5134,7 @@ importers:
         version: 0.2.2
       vue-i18n:
         specifier: 'catalog:'
-        version: 11.4.4(vue@3.5.38(typescript@5.9.3))
+        version: 11.4.7(vue@3.5.38(typescript@5.9.3))
     devDependencies:
       '@shoelace-style/shoelace':
         specifier: 'catalog:'
@@ -5415,7 +5415,7 @@ importers:
         version: 0.2.2
       vue-i18n:
         specifier: 'catalog:'
-        version: 11.4.4(vue@3.5.38(typescript@5.9.3))
+        version: 11.4.7(vue@3.5.38(typescript@5.9.3))
     devDependencies:
       '@vue/test-utils':
         specifier: 'catalog:'
@@ -6175,16 +6175,32 @@ packages:
     resolution: {integrity: sha512-w/vItlylrAmhebkIbVl5YY8XMCtj8Mb2g70ttxktMYuf5AuRahgEHL2iLgLIsZBIbTSgs4hkUo7ucCL0uTJvOg==}
     engines: {node: '>= 22'}
 
+  '@intlify/core-base@11.4.7':
+    resolution: {integrity: sha512-MSB/sBKwEWJTILvQIhg2rnIcwPpLayo3wGwvVA+dJTNeUBD9GoqQgAaSOLdI9iOPDHCm9YoVnLqpfzza98MpkQ==}
+    engines: {node: '>= 22'}
+
   '@intlify/devtools-types@11.4.4':
     resolution: {integrity: sha512-PcBLmGmDQsTSVV911P8upzpcLJO1CNVYi/IH6bGnLR2nA+0L963+kXN1ZrisTEnbtw2ewN6HMMSldqzjronA0Q==}
+    engines: {node: '>= 22'}
+
+  '@intlify/devtools-types@11.4.7':
+    resolution: {integrity: sha512-GSz+J+hqH+AEpAHIYya6fSufS30OaMnG39HiZX7DmGKi3+aaLvassCfsXENEc4Wr4m68q2YP0QdMdB3D9UeAXg==}
     engines: {node: '>= 22'}
 
   '@intlify/message-compiler@11.4.4':
     resolution: {integrity: sha512-vn0OAV9pYkJlPPmgnsSm5eAG3mL0+9C/oaded2JY9jmxBbhmUXT3TcAUY8WRgLY9Hte7lkUJKpXrVlYjMXBD2w==}
     engines: {node: '>= 22'}
 
+  '@intlify/message-compiler@11.4.7':
+    resolution: {integrity: sha512-bHxmh7n94N4N1evADeb7XTkc3jTw6Ki5biMFZVSX6Jmk+iehy8/maeH2XUsBI27rtKIK+Hzc6QnVAKggUwylKw==}
+    engines: {node: '>= 22'}
+
   '@intlify/shared@11.4.4':
     resolution: {integrity: sha512-QRUCHqda1U6aR14FR0vvXD4+4gj6+fm0AhAozvSuRCw0fCvrmCugWpgiR4xH2NI6s8am6N9p5OhirplsX8ZS3g==}
+    engines: {node: '>= 22'}
+
+  '@intlify/shared@11.4.7':
+    resolution: {integrity: sha512-OtjPZan3No2OZZFnMUiCVsXC6+j+XRwEywaFDk0AoayAbLuPesyDloXhJZLl9JUl5vHZeQUkYSbEA8VX+CWMjg==}
     engines: {node: '>= 22'}
 
   '@inversifyjs/common@2.0.1':
@@ -10858,6 +10874,12 @@ packages:
     peerDependencies:
       vue: ^3.0.0
 
+  vue-i18n@11.4.7:
+    resolution: {integrity: sha512-j6RyshdPPzqLiMAUpnpvZGFPM+rRoWi14Sl5yTsquvoW0/56DWyvhAj2o9TO2YXGvb6teg8T0xrYO9jR3urvdw==}
+    engines: {node: '>= 22'}
+    peerDependencies:
+      vue: ^3.0.0
+
   vue-router@5.0.3:
     resolution: {integrity: sha512-nG1c7aAFac7NYj8Hluo68WyWfc41xkEjaR0ViLHCa3oDvTQ/nIuLJlXJX1NUPw/DXzx/8+OKMng045HHQKQKWw==}
     peerDependencies:
@@ -11618,17 +11640,35 @@ snapshots:
       '@intlify/message-compiler': 11.4.4
       '@intlify/shared': 11.4.4
 
+  '@intlify/core-base@11.4.7':
+    dependencies:
+      '@intlify/devtools-types': 11.4.7
+      '@intlify/message-compiler': 11.4.7
+      '@intlify/shared': 11.4.7
+
   '@intlify/devtools-types@11.4.4':
     dependencies:
       '@intlify/core-base': 11.4.4
       '@intlify/shared': 11.4.4
+
+  '@intlify/devtools-types@11.4.7':
+    dependencies:
+      '@intlify/core-base': 11.4.7
+      '@intlify/shared': 11.4.7
 
   '@intlify/message-compiler@11.4.4':
     dependencies:
       '@intlify/shared': 11.4.4
       source-map-js: 1.2.1
 
+  '@intlify/message-compiler@11.4.7':
+    dependencies:
+      '@intlify/shared': 11.4.7
+      source-map-js: 1.2.1
+
   '@intlify/shared@11.4.4': {}
+
+  '@intlify/shared@11.4.7': {}
 
   '@inversifyjs/common@2.0.1': {}
 
@@ -12367,12 +12407,12 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@typescript-eslint/eslint-plugin@8.65.0(@typescript-eslint/parser@8.65.0(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(typescript@5.9.3))(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(typescript@5.9.3)':
+  '@typescript-eslint/eslint-plugin@8.65.0(@typescript-eslint/parser@8.65.0(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(supports-color@5.5.0)(typescript@5.9.3))(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(supports-color@5.5.0)(typescript@5.9.3)':
     dependencies:
       '@eslint-community/regexpp': 4.12.2
-      '@typescript-eslint/parser': 8.65.0(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(typescript@5.9.3)
+      '@typescript-eslint/parser': 8.65.0(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(supports-color@5.5.0)(typescript@5.9.3)
       '@typescript-eslint/scope-manager': 8.65.0
-      '@typescript-eslint/type-utils': 8.65.0(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(typescript@5.9.3)
+      '@typescript-eslint/type-utils': 8.65.0(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(supports-color@5.5.0)(typescript@5.9.3)
       '@typescript-eslint/utils': 8.65.0(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(typescript@5.9.3)
       '@typescript-eslint/visitor-keys': 8.65.0
       eslint: 10.7.0(jiti@2.7.0)(supports-color@5.5.0)
@@ -12395,7 +12435,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@typescript-eslint/parser@8.65.0(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(typescript@5.9.3)':
+  '@typescript-eslint/parser@8.65.0(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(supports-color@5.5.0)(typescript@5.9.3)':
     dependencies:
       '@typescript-eslint/scope-manager': 8.65.0
       '@typescript-eslint/types': 8.65.0
@@ -12477,7 +12517,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  '@typescript-eslint/type-utils@8.65.0(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(typescript@5.9.3)':
+  '@typescript-eslint/type-utils@8.65.0(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(supports-color@5.5.0)(typescript@5.9.3)':
     dependencies:
       '@typescript-eslint/types': 8.65.0
       '@typescript-eslint/typescript-estree': 8.65.0(typescript@5.9.3)
@@ -16948,10 +16988,10 @@ snapshots:
       possible-typed-array-names: 1.1.0
       reflect.getprototypeof: 1.0.10
 
-  typescript-eslint@8.65.0(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(typescript@5.9.3):
+  typescript-eslint@8.65.0(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(supports-color@5.5.0)(typescript@5.9.3):
     dependencies:
-      '@typescript-eslint/eslint-plugin': 8.65.0(@typescript-eslint/parser@8.65.0(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(typescript@5.9.3))(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(typescript@5.9.3)
-      '@typescript-eslint/parser': 8.65.0(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(typescript@5.9.3)
+      '@typescript-eslint/eslint-plugin': 8.65.0(@typescript-eslint/parser@8.65.0(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(supports-color@5.5.0)(typescript@5.9.3))(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(supports-color@5.5.0)(typescript@5.9.3)
+      '@typescript-eslint/parser': 8.65.0(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(supports-color@5.5.0)(typescript@5.9.3)
       '@typescript-eslint/typescript-estree': 8.65.0(typescript@5.9.3)
       '@typescript-eslint/utils': 8.65.0(eslint@10.7.0(jiti@2.7.0)(supports-color@5.5.0))(typescript@5.9.3)
       eslint: 10.7.0(jiti@2.7.0)(supports-color@5.5.0)
@@ -17271,6 +17311,14 @@ snapshots:
       '@intlify/core-base': 11.4.4
       '@intlify/devtools-types': 11.4.4
       '@intlify/shared': 11.4.4
+      '@vue/devtools-api': 6.6.4
+      vue: 3.5.38(typescript@5.9.3)
+
+  vue-i18n@11.4.7(vue@3.5.38(typescript@5.9.3)):
+    dependencies:
+      '@intlify/core-base': 11.4.7
+      '@intlify/devtools-types': 11.4.7
+      '@intlify/shared': 11.4.7
       '@vue/devtools-api': 6.6.4
       vue: 3.5.38(typescript@5.9.3)
 
